@@ -21,7 +21,7 @@ Personal Task Manager
 - React.js
 - Vite
 ## 🔗 Live Demo
-[[Link to deployed application]](https://todo-neon-sigma.vercel.app/)
+[[https://todo-neon-sigma.vercel.app/]](https://todo-neon-sigma.vercel.app/)
 ## 🖼 Screenshots
 ![image](https://github.com/user-attachments/assets/c1296cb4-19b2-40b0-9e3b-b2c6863db47f)
 ![image](https://github.com/user-attachments/assets/c7178c41-3bb8-4e00-81ac-6f03c9e4a86f)
