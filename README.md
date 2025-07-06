@@ -1,6 +1,6 @@
 # Personal Task Tracker
 ## 📖 Description
-Personal Task Manager 
+Personal Task Manager by Fabio Mughilan
 ## 🚀 Features
 -Basic Login 
 -Task Management(Add,Edit,Delete Task)
